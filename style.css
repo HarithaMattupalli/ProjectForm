@@ -1,0 +1,30 @@
+h4{
+  margin-left: 3%;
+}
+fieldset {
+  color:red;
+  border:1px solid #999;
+	border-radius:8px;
+	box-shadow:0 0 10px #999;
+}
+.project{
+  width: 90%;
+  align-self: center;
+}
+.contract{
+  width: 100%;
+  align-self: center;
+  margin-top: 3%;
+}
+.contractspace{
+  color:#751aff;
+  margin-left: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.projectspace{
+  color:#751aff;
+  margin-left: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
